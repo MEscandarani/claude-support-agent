@@ -1,0 +1,2 @@
+anthropic>=0.105
+pydantic>=2.7
